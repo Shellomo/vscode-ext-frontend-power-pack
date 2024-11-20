@@ -1,0 +1,23 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="200" cy="200" r="180" fill="#2563eb" />
+  
+  <!-- Lightning Bolt -->
+  <path d="M240 80 L160 200 L220 200 L160 320 L280 160 L220 160 L280 80 Z" 
+        fill="white" 
+        stroke="#1e40af" 
+        stroke-width="8"/>
+  
+  <!-- Code Brackets -->
+  <path d="M140 140 L100 200 L140 260" 
+        fill="none" 
+        stroke="white" 
+        stroke-width="24" 
+        stroke-linecap="round"/>
+  
+  <path d="M260 140 L300 200 L260 260" 
+        fill="none" 
+        stroke="white" 
+        stroke-width="24" 
+        stroke-linecap="round"/>
+</svg>
