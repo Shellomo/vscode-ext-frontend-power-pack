@@ -1,45 +1,44 @@
 {
-    "name": "frontend-power-pack",
-    "displayName": "Frontend Power Pack",
-    "description": "Supercharge your web development with essential tools for HTML5, CSS3, and modern JavaScript. Used by 10,000+ developers.",
-    "version": "1.0.0",
-    "publisher": "Shellomo",
-    "engines": {
-        "vscode": "^1.80.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [
-        "ritwickdey.LiveServer",
-        "formulahendry.auto-close-tag",
-        "formulahendry.auto-rename-tag",
-        "pranaygp.vscode-css-peek",
-        "ecmel.vscode-html-css",
-        "zignd.html-css-class-completion",
-        "abusaidm.html-snippets",
-        "xabikos.JavaScriptSnippets",
-        "ms-vsliveshare.vsliveshare",
-        "esbenp.prettier-vscode",
-        "bradlc.vscode-tailwindcss",
-        "kisstkondoros.vscode-gutter-preview",
-        "christian-kohler.path-intellisense",
-        "naumovs.color-highlight",
-        "mkaufman.HTMLHint"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Shellomo/vscode-ext-frontend-power-pack"
-    },
-    "keywords": [
-        "frontend",
-        "html",
-        "css",
-        "javascript",
-        "web development",
-        "productivity",
-        "extension pack"
-    ],
-    "icon": "media/logo.png"
-
+  "name": "frontend-power-pack",
+  "displayName": "Frontend Power Pack",
+  "description": "Supercharge your web development with essential tools for HTML5, CSS3, and modern JavaScript. Used by 10,000+ developers.",
+  "version": "1.0.0",
+  "publisher": "Shellomo",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "Shellomo.modern-live-server",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "pranaygp.vscode-css-peek",
+    "ecmel.vscode-html-css",
+    "zignd.html-css-class-completion",
+    "abusaidm.html-snippets",
+    "Shellomo.js-snippets-pro",
+    "ms-vsliveshare.vsliveshare",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "kisstkondoros.vscode-gutter-preview",
+    "christian-kohler.path-intellisense",
+    "naumovs.color-highlight",
+    "mkaufman.HTMLHint"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shellomo/vscode-ext-frontend-power-pack"
+  },
+  "keywords": [
+    "frontend",
+    "html",
+    "css",
+    "javascript",
+    "web development",
+    "productivity",
+    "extension pack"
+  ],
+  "icon": "media/logo.png"
 }
